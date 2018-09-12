@@ -1,1 +1,2 @@
-# technical-chinese
+# 技术文档规范开源项目
+
